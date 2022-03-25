@@ -1,7 +1,7 @@
 # ### Opa tudo bem? Eu sou Caio Cesar e estudo ciências da computação!
 
 <div>
-  <a href="https://github.com/caiocfpeixoto">
+  <a href="https://github.com/J0rgex19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocfpeixoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocfpeixoto&layout=compact&langs_count=20&theme=tokyonight"/>
 </div>
