@@ -1,4 +1,4 @@
-# ### Eae tudo bem? Eu sou Jorge Luís e estudo ciências da computação!
+# ### Eae tudo bem? Eu sou Jorge Luís e estudo Ciências da computação!
 
 <div>
   <a href="https://github.com/J0rgex19">
